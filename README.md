@@ -1,28 +1,21 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:164E63,100:0891B2&text=Mohamed%20Salah&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=15&descAlignY=65" width="100%" />
+\<img src="[https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,50:0F3D56,100:0891B2&text=Mohamed%20Salah&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=16&descAlignY=62](https://capsule-render.vercel.app/api?type=venom\&height=230\&color=0:020617,50:0F3D56,100:0891B2\&text=Mohamed%20Salah\&fontColor=FFFFFF\&fontSize=58\&fontAlignY=42\&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST\&descSize=16\&descAlignY=62)" width="100%" />
 
-<br/>
+\<br/>
 
-<a href="https://github.com/Mo-Salah404">
-<img src="https://komarev.com/ghpvc/?username=Mo-Salah404&style=flat-square&color=0891B2&label=PROFILE+VIEWS" />
-</a>
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Build+%7C+Learn+%7C+Improve](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=20\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=650\&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Build+%7C+Learn+%7C+Improve)" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Exploring+Backend+%26+DevOps;Learning+%7C+Building+%7C+Improving;Turning+Ideas+Into+Code" />
+\<br/>\<br/>
 
-<br/>
+\<a href="[https://github.com/Mo-Salah404](https://github.com/Mo-Salah404)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a> \<a href="[https://www.linkedin.com/in/mohamed-salah-985192415](https://www.linkedin.com/in/mohamed-salah-985192415)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a> \<a href="[https://t.me/AbuYazanM](https://t.me/AbuYazanM)"> \<img src="[https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)" /> \</a> \<a href="mailto\:m8salaht\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" /> \</a> \<a href="[https://github.com/Mo-Salah404?tab=followers](https://github.com/Mo-Salah404?tab=followers)"> \<img src="[https://img.shields.io/badge/Follow-8957E5?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Follow-8957E5?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
 
-<a href="https://www.linkedin.com/in/mohamed-salah-985192415">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:m8salaht@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Mo-Salah404">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+\<br/>\<br/>
 
-</div>
+\<img src="[https://komarev.com/ghpvc/?username=Mo-Salah404&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=Mo-Salah404\&style=for-the-badge\&color=0891B2\&label=PROFILE+VIEWS)" />
+
+\</div>
+
 
 ---
 
