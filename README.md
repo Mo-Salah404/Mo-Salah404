@@ -1,23 +1,29 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,50:0F3D56,100:0891B2&text=Mohamed%20Salah&fontColor=FFFFFF&fontSize=58&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0F3D56,100:0891B2&text=Mohamed%20Salah&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=16&descAlignY=58&animation=fadeIn&section=header" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Always+Learning+%7C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Learning+%7C+Building+%7C+Improving" alt="Typing Animation" />
 
 <br/><br/>
 
-<a href="https://github.com/Mo-Salah404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mohamed-salah-985192415"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/AbuYazanM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:m8salaht@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Mo-Salah404?tab=followers"><img src="https://img.shields.io/badge/Follow-8957E5?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mo-Salah404&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
+<a href="https://github.com/Mo-Salah404">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamed-salah-985192415">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/AbuYazanM">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:m8salaht@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Mo-Salah404">
+<img src="https://img.shields.io/badge/Follow-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
+</a>
 
 </div>
 
@@ -25,61 +31,89 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Mohamed Salah**, a Computer Science student passionate about software development, modern technologies, and continuous learning.
+Hi! I'm **Mohamed Salah**, a Computer Science student who enjoys learning how things work and turning ideas into real projects.
 
-I'm focusing on Full Stack Development while exploring DevOps and modern software engineering practices.
+I'm currently focusing on Full Stack Development, strengthening my programming fundamentals, and exploring DevOps, APIs, and Artificial Intelligence.
+
+I enjoy solving problems, experimenting with new technologies, and learning something useful from every project I build.
 
 - 🎓 Computer Science Student.
-- 💻 Interested in Full Stack Development.
-- ⚙️ Exploring DevOps and Cloud Technologies.
-- 🔌 Interested in APIs and Backend Development.
-- 🤖 Exploring Artificial Intelligence.
-- 🧠 Improving my Problem Solving skills.
-- 🚀 Learning through practical projects and experimentation.
+- 💻 Focused on Full Stack Development.
+- ⚙️ Interested in DevOps and Cloud Technologies.
+- 🔌 Exploring Backend Development and APIs.
+- 🤖 Curious about Artificial Intelligence.
+- 🧠 Enjoy solving programming problems and improving my logical thinking.
+- 🚀 Always learning and building something new.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
-</p>
+<table width="100%">
+<tr>
+<td width="25%"><strong>Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,c" height="48" />
+</td>
+</tr>
 
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="48" />
+</td>
+</tr>
 
-### Database
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="48" />
+</td>
+</tr>
 
-### Development Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<tr>
+<td><strong>Development Tools</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Currently Exploring
 
-- 🌐 Full Stack Web Development.
-- ⚙️ Backend Development and REST APIs.
+I'm always curious about what happens behind the scenes of modern applications.
+
+Some of the areas I'm currently exploring:
+
+- 🌐 Full Stack Application Development.
+- ⚙️ Backend Architecture and REST APIs.
 - 🐧 Linux and Command Line.
 - 🐳 Docker and Containerization.
-- ☁️ DevOps and CI/CD fundamentals.
-- 🤖 AI Integration and APIs.
+- ☁️ DevOps Fundamentals and CI/CD.
+- 🤖 AI Integration in Web Applications.
 
 ---
 
-## 🧩 Problem Solving
+## 🧩 Problem Solving & Competitive Programming
 
-- Practicing C++ programming.
-- Studying Data Structures and Algorithms.
-- Improving logical and analytical thinking.
-- Writing clean and maintainable code.
+For me, programming isn't only about writing code. It's also about learning how to think, break down problems, and find efficient solutions.
+
+I'm continuously working on improving my problem-solving skills through:
+
+- 💻 C++ Programming.
+- 🧠 Data Structures and Algorithms.
+- 🎯 Logical and Analytical Thinking.
+- 🏆 Competitive Programming Challenges.
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/AbuYazan">
+<img src="https://img.shields.io/badge/Codeforces-AbuYazan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
+</a>
+
+</div>
 
 ---
 
@@ -87,13 +121,13 @@ I'm focusing on Full Stack Development while exploring DevOps and modern softwar
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mo-Salah404&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mo-Salah404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Salah404&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Salah404&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Salah404&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Salah404&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most Used Languages"/>
 
 </div>
 
@@ -103,25 +137,29 @@ I'm focusing on Full Stack Development while exploring DevOps and modern softwar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo-Salah404&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo-Salah404&bg_color=0D1117&color=38BDF8&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" alt="Contribution Activity"/>
 
 </div>
 
 ---
 
-## ⚡ My Philosophy
+## ⚡ A Little About My Journey
+
+I don't believe in knowing everything from day one.
+
+I believe in starting with the fundamentals, staying consistent, building real things, learning from mistakes, and getting better with every step.
 
 <div align="center">
 
-### Build. Learn. Experiment. Improve.
-
-*Every challenge is an opportunity to become a better engineer.*
+### Learn. Build. Solve. Repeat.
 
 </div>
 
 ---
 
 ## 🤝 Let's Connect
+
+I'm always happy to connect with other developers, exchange ideas, learn from different experiences, and explore new opportunities.
 
 <div align="center">
 
