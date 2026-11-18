@@ -1,16 +1,30 @@
-&#x20;\<div align="center">
+<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0F3D56,100:0891B2&text=Mohamed%20Salah&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=16&descAlignY=58&animation=fadeIn&section=header](https://capsule-render.vercel.app/api?type=waving\&height=210\&color=0:020617,50:0F3D56,100:0891B2\&text=Mohamed%20Salah\&fontColor=FFFFFF\&fontSize=58\&fontAlignY=38\&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST\&descSize=16\&descAlignY=58\&animation=fadeIn\&section=header)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0F3D56,100:0891B2&text=Mohamed%20Salah&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=16&descAlignY=58&animation=fadeIn&section=header" width="100%" />
 
-\<br/>
+<br/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Learning+%7C+Building+%7C+Improving](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=20\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=700\&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Learning+%7C+Building+%7C+Improving)" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Learning+%7C+Building+%7C+Improving" alt="Typing Animation" />
 
-\<br/>\<br/>
+<br/><br/>
 
-\<a href="[https://github.com/Mo-Salah404](https://github.com/Mo-Salah404)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/> \</a> \<a href="[https://www.linkedin.com/in/mohamed-salah-985192415](https://www.linkedin.com/in/mohamed-salah-985192415)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/> \</a> \<a href="[https://t.me/AbuYazanM](https://t.me/AbuYazanM)"> \<img src="[https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)" alt="Telegram"/> \</a> \<a href="mailto\:m8salaht\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/> \</a> \<a href="[https://github.com/Mo-Salah404](https://github.com/Mo-Salah404)"> \<img src="[https://img.shields.io/badge/Follow-8957E5?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Follow-8957E5?style=for-the-badge\&logo=github\&logoColor=white)" alt="Follow Me"/> \</a>
+<a href="https://github.com/Mo-Salah404">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamed-salah-985192415">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/AbuYazanM">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:m8salaht@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Mo-Salah404">
+<img src="https://img.shields.io/badge/Follow-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
+</a>
 
-\</div>
+</div>
 
 ---
 
@@ -34,13 +48,35 @@ I enjoy solving problems, experimenting with new technologies, and learning some
 
 ## 🛠️ Tech Stack
 
-\<table width="100%"> \<tr> \<td width="25%">\<strong>Languages\</strong>\</td> \<td> \<img src="[https://skillicons.dev/icons?i=js,ts,python,cpp,java,c](https://skillicons.dev/icons?i=js,ts,python,cpp,java,c)" height="48" /> \</td> \</tr>
+<table width="100%">
+<tr>
+<td width="25%"><strong>Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,c" height="48" />
+</td>
+</tr>
 
-\<tr> \<td>\<strong>Frontend\</strong>\</td> \<td> \<img src="[https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)" height="48" /> \</td> \</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="48" />
+</td>
+</tr>
 
-\<tr> \<td>\<strong>Databases\</strong>\</td> \<td> \<img src="[https://skillicons.dev/icons?i=mongodb,postgres,firebase](https://skillicons.dev/icons?i=mongodb,postgres,firebase)" height="48" /> \</td> \</tr>
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="48" />
+</td>
+</tr>
 
-\<tr> \<td>\<strong>Development Tools\</strong>\</td> \<td> \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" height="48" /> \</td> \</tr> \</table>
+<tr>
+<td><strong>Development Tools</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,11 +106,13 @@ I'm continuously working on improving my problem-solving skills through:
 - 🎯 Logical and Analytical Thinking.
 - 🏆 Competitive Programming Challenges.
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://codeforces.com/profile/AbuYazan](https://codeforces.com/profile/AbuYazan)"> \<img src="[https://img.shields.io/badge/Codeforces-AbuYazan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white](https://img.shields.io/badge/Codeforces-AbuYazan-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)" alt="Codeforces Profile"/> \</a>
+<a href="https://codeforces.com/profile/AbuYazan">
+<img src="https://img.shields.io/badge/Codeforces-AbuYazan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
+</a>
 
-\</div>
+</div>
 
 ---
 
@@ -101,5 +139,3 @@ const DDXAhmed = {
 
     philosophy: "Build. Learn. Experiment. Solve real problems."
 };
-```
-
