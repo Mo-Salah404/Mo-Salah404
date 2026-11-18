@@ -118,24 +118,25 @@ I'm continuously working on improving my problem-solving skills through:
 
 ## ⚡ Behind The Logic
 
-```javascript
-const DDXAhmed = {
-    role: "Full Stack Developer & Systems Innovator",
+const MohamedSalah = {
+    role: "Full Stack Developer & Computer Science Student",
 
-    academicPath: "Computer Science & Applied Sciences",
+    academicPath: "Computer Science",
 
     coreDomains: [
-        "Full-Stack Web Architecture",
-        "Embedded Systems & FreeRTOS",
-        "Edge AI & TinyML",
-        "Physics & Signal Processing"
+        "Full-Stack Web Development",
+        "Backend Development & REST APIs",
+        "DevOps & Cloud Computing",
+        "Data Structures & Algorithms",
+        "Artificial Intelligence"
     ],
 
-    currentInitiatives: [
-        "Multi-modal Edge AI systems",
-        "Patent Application & Technical Documentation",
-        "Interactive STEM Educational Media"
+    currentFocus: [
+        "Building Modern Web Applications",
+        "Strengthening Problem-Solving Skills",
+        "Exploring AI & API Integration",
+        "Learning Cloud & DevOps Technologies"
     ],
 
-    philosophy: "Build. Learn. Experiment. Solve real problems."
+    philosophy: "Think. Code. Build. Learn. Repeat."
 };
