@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0F3D56,100:0891B2&text=Mohamed%20Salah&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=16&descAlignY=58&animation=fadeIn&section=header" width="100%" />
 
@@ -21,9 +20,6 @@
 <a href="mailto:m8salaht@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/Mo-Salah404">
-<img src="https://img.shields.io/badge/Follow-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
-</a>
 
 </div>
 
@@ -31,19 +27,19 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Mohamed Salah**, a Computer Science student who enjoys learning how things work and turning ideas into real projects.
+Hi! I'm **Mohamed Salah**, a Computer Science student passionate about software development, problem-solving, and building meaningful technology.
 
-I'm currently focusing on Full Stack Development, strengthening my programming fundamentals, and exploring DevOps, APIs, and Artificial Intelligence.
+I'm currently focusing on Full Stack Development, strengthening my programming fundamentals, and exploring DevOps, Cloud Computing, APIs, and Artificial Intelligence.
 
-I enjoy solving problems, experimenting with new technologies, and learning something useful from every project I build.
+I enjoy understanding how systems work behind the scenes, experimenting with new technologies, and transforming ideas into practical solutions.
 
 - 🎓 Computer Science Student.
 - 💻 Focused on Full Stack Development.
 - ⚙️ Interested in DevOps and Cloud Technologies.
-- 🔌 Exploring Backend Development and APIs.
-- 🤖 Curious about Artificial Intelligence.
-- 🧠 Enjoy solving programming problems and improving my logical thinking.
-- 🚀 Always learning and building something new.
+- 🔌 Exploring Backend Development and REST APIs.
+- 🤖 Interested in Artificial Intelligence and AI Integration.
+- 🧠 Passionate about Data Structures, Algorithms, and Problem Solving.
+- 🚀 Always learning, experimenting, and building.
 
 ---
 
@@ -117,58 +113,38 @@ I'm continuously working on improving my problem-solving skills through:
 
 ---
 
-## 📊 GitHub Statistics
+## ⚡ Behind The Logic
+
+```javascript
+const MohamedSalah = {
+    role: "Full Stack Developer & DevOps Enthusiast",
+
+    academicPath: "Computer Science",
+
+    coreDomains: [
+        "Full-Stack Web Development",
+        "Backend Architecture & APIs",
+        "DevOps & Cloud Computing",
+        "Data Structures & Algorithms",
+        "Artificial Intelligence"
+    ],
+
+    currentFocus: [
+        "Building Scalable Web Applications",
+        "Exploring Cloud & DevOps Technologies",
+        "Understanding AI Integration",
+        "Developing Problem-Solving Skills"
+    ],
+
+    philosophy: "Learn. Build. Experiment. Solve Real Problems."
+};
+```
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mo-Salah404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Statistics"/>
+**Think Deep. Build Smart. Keep Evolving.**
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Salah404&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Salah404&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most Used Languages"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo-Salah404&bg_color=0D1117&color=38BDF8&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" alt="Contribution Activity"/>
-
-</div>
-
----
-
-## ⚡ A Little About My Journey
-
-I don't believe in knowing everything from day one.
-
-I believe in starting with the fundamentals, staying consistent, building real things, learning from mistakes, and getting better with every step.
-
-<div align="center">
-
-### Learn. Build. Solve. Repeat.
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always happy to connect with other developers, exchange ideas, learn from different experiences, and explore new opportunities.
-
-<div align="center">
-
-<a href="https://github.com/Mo-Salah404">GitHub</a> •
-<a href="https://www.linkedin.com/in/mohamed-salah-985192415">LinkedIn</a> •
-<a href="https://t.me/AbuYazanM">Telegram</a> •
-<a href="mailto:m8salaht@gmail.com">Email</a>
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:020617&height=120&section=footer" width="100%" />
 
