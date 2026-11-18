@@ -121,9 +121,7 @@ I'm continuously working on improving my problem-solving skills through:
 ```javascript
 const MohamedSalah = {
     role: "Full Stack Developer & Computer Science Student",
-
     academicPath: "Computer Science",
-
     coreDomains: [
         "Full-Stack Web Development",
         "Backend Development & REST APIs",
@@ -131,13 +129,11 @@ const MohamedSalah = {
         "Data Structures & Algorithms",
         "Artificial Intelligence"
     ],
-
     currentFocus: [
         "Building Modern Web Applications",
         "Strengthening Problem-Solving Skills",
         "Exploring AI & API Integration",
         "Learning Cloud & DevOps Technologies"
     ],
-
     philosophy: "Think. Code. Build. Learn. Repeat."
 };
