@@ -1,79 +1,46 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0F3D56,100:0891B2&text=Mohamed%20Salah&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=16&descAlignY=58&animation=fadeIn&section=header" width="100%" />
+\<img src="[https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0F3D56,100:0891B2&text=Mohamed%20Salah&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=16&descAlignY=58&animation=fadeIn&section=header](https://capsule-render.vercel.app/api?type=waving\&height=210\&color=0:020617,50:0F3D56,100:0891B2\&text=Mohamed%20Salah\&fontColor=FFFFFF\&fontSize=58\&fontAlignY=38\&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST\&descSize=16\&descAlignY=58\&animation=fadeIn\&section=header)" width="100%" />
 
-<br/>
+\<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Learning+%7C+Building+%7C+Improving" alt="Typing Animation" />
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Learning+%7C+Building+%7C+Improving](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=20\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=700\&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+AI+%26+APIs;Learning+%7C+Building+%7C+Improving)" alt="Typing Animation" />
 
-<br/><br/>
+\<br/>\<br/>
 
-<a href="https://github.com/Mo-Salah404">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/mohamed-salah-985192415">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://t.me/AbuYazanM">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="mailto:m8salaht@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+\<a href="[https://github.com/Mo-Salah404](https://github.com/Mo-Salah404)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/> \</a> \<a href="[https://www.linkedin.com/in/mohamed-salah-985192415](https://www.linkedin.com/in/mohamed-salah-985192415)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/> \</a> \<a href="[https://t.me/AbuYazanM](https://t.me/AbuYazanM)"> \<img src="[https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)" alt="Telegram"/> \</a> \<a href="mailto\:m8salaht\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/> \</a> \<a href="[https://github.com/Mo-Salah404](https://github.com/Mo-Salah404)"> \<img src="[https://img.shields.io/badge/Follow-8957E5?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Follow-8957E5?style=for-the-badge\&logo=github\&logoColor=white)" alt="Follow Me"/> \</a>
 
-</div>
+\</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Mohamed Salah**, a Computer Science student passionate about software development, problem-solving, and building meaningful technology.
+Hi! I'm **Mohamed Salah**, a Computer Science student who enjoys learning how things work and turning ideas into real projects.
 
-I'm currently focusing on Full Stack Development, strengthening my programming fundamentals, and exploring DevOps, Cloud Computing, APIs, and Artificial Intelligence.
+I'm currently focusing on Full Stack Development, strengthening my programming fundamentals, and exploring DevOps, APIs, and Artificial Intelligence.
 
-I enjoy understanding how systems work behind the scenes, experimenting with new technologies, and transforming ideas into practical solutions.
+I enjoy solving problems, experimenting with new technologies, and learning something useful from every project I build.
 
 - 🎓 Computer Science Student.
 - 💻 Focused on Full Stack Development.
 - ⚙️ Interested in DevOps and Cloud Technologies.
-- 🔌 Exploring Backend Development and REST APIs.
-- 🤖 Interested in Artificial Intelligence and AI Integration.
-- 🧠 Passionate about Data Structures, Algorithms, and Problem Solving.
-- 🚀 Always learning, experimenting, and building.
+- 🔌 Exploring Backend Development and APIs.
+- 🤖 Curious about Artificial Intelligence.
+- 🧠 Enjoy solving programming problems and improving my logical thinking.
+- 🚀 Always learning and building something new.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="25%"><strong>Languages</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,c" height="48" />
-</td>
-</tr>
+\<table width="100%"> \<tr> \<td width="25%">\<strong>Languages\</strong>\</td> \<td> \<img src="[https://skillicons.dev/icons?i=js,ts,python,cpp,java,c](https://skillicons.dev/icons?i=js,ts,python,cpp,java,c)" height="48" /> \</td> \</tr>
 
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="48" />
-</td>
-</tr>
+\<tr> \<td>\<strong>Frontend\</strong>\</td> \<td> \<img src="[https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)" height="48" /> \</td> \</tr>
 
-<tr>
-<td><strong>Databases</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="48" />
-</td>
-</tr>
+\<tr> \<td>\<strong>Databases\</strong>\</td> \<td> \<img src="[https://skillicons.dev/icons?i=mongodb,postgres,firebase](https://skillicons.dev/icons?i=mongodb,postgres,firebase)" height="48" /> \</td> \</tr>
 
-<tr>
-<td><strong>Development Tools</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" />
-</td>
-</tr>
-</table>
+\<tr> \<td>\<strong>Development Tools\</strong>\</td> \<td> \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" height="48" /> \</td> \</tr> \</table>
 
 ---
 
@@ -103,49 +70,36 @@ I'm continuously working on improving my problem-solving skills through:
 - 🎯 Logical and Analytical Thinking.
 - 🏆 Competitive Programming Challenges.
 
-<div align="center">
+\<div align="center">
 
-<a href="https://codeforces.com/profile/AbuYazan">
-<img src="https://img.shields.io/badge/Codeforces-AbuYazan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
-</a>
+\<a href="[https://codeforces.com/profile/AbuYazan](https://codeforces.com/profile/AbuYazan)"> \<img src="[https://img.shields.io/badge/Codeforces-AbuYazan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white](https://img.shields.io/badge/Codeforces-AbuYazan-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)" alt="Codeforces Profile"/> \</a>
 
-</div>
+\</div>
 
 ---
 
 ## ⚡ Behind The Logic
 
 ```javascript
-const MohamedSalah = {
-    role: "Full Stack Developer & DevOps Enthusiast",
+const DDXAhmed = {
+    role: "Full Stack Developer & Systems Innovator",
 
-    academicPath: "Computer Science",
+    academicPath: "Computer Science & Applied Sciences",
 
     coreDomains: [
-        "Full-Stack Web Development",
-        "Backend Architecture & APIs",
-        "DevOps & Cloud Computing",
-        "Data Structures & Algorithms",
-        "Artificial Intelligence"
+        "Full-Stack Web Architecture",
+        "Embedded Systems & FreeRTOS",
+        "Edge AI & TinyML",
+        "Physics & Signal Processing"
     ],
 
-    currentFocus: [
-        "Building Scalable Web Applications",
-        "Exploring Cloud & DevOps Technologies",
-        "Understanding AI Integration",
-        "Developing Problem-Solving Skills"
+    currentInitiatives: [
+        "Multi-modal Edge AI systems",
+        "Patent Application & Technical Documentation",
+        "Interactive STEM Educational Media"
     ],
 
-    philosophy: "Learn. Build. Experiment. Solve Real Problems."
+    philosophy: "Build. Learn. Experiment. Solve real problems."
 };
 ```
 
-<div align="center">
-
-**Think Deep. Build Smart. Keep Evolving.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:020617&height=120&section=footer" width="100%" />
-
-</div>
